@@ -51,3 +51,4 @@ newFile=open("lexConfig.txt","w")
 newFile.write(json.dumps(data, indent=2))
 
 
+print("helloworld")
